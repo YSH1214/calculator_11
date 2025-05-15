@@ -52,6 +52,7 @@
 
 ## 동작 화면
 ![Image](https://github.com/user-attachments/assets/7543505a-6770-46ce-8c5c-26ad262bb449)
+![Image](https://github.com/user-attachments/assets/25e2a0f8-fb4c-437d-a816-28dfb0a056ed)
 
 ## 브랜치 전략
 
